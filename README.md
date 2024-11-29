@@ -10,9 +10,10 @@
 
 ## Installation
 1. Clone this repository or download it as a ZIP file.
-2. Go to `chrome://extensions/` in your Chrome browser.
-3. Enable **Developer Mode**.
-4. Click **Load unpacked** and select the downloaded folder.
+2. git link: https://github.com/ammizan/MizAds-Blocker.git
+3. Go to `chrome://extensions/` in your Chrome browser.
+4. Enable **Developer Mode**.
+5. Click **Load unpacked** and select the downloaded folder.
 
 ## Credit
 This project was developed with the assistance of **ChatGPT** by OpenAI. Thanks to ChatGPT for providing support in coding, debugging, and troubleshooting throughout the development process.
